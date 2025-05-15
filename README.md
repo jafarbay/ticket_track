@@ -4,7 +4,7 @@
 
 ## Установка
 
-1. Скачайте ZIP-архив с расширением: [Скачать v1.0.0](https://github.com/jafarbay/ticket_track/releases/download/ticket.zip)
+1. Скачайте ZIP-архив с расширением: [Скачать v1.0.0](https://github.com/jafarbay/ticket_track/releases/download/tag/ticket.zip)
 2. Распакуйте архив в любую папку.
 3. Установите расширение в вашем браузере:
    - **Chrome/Edge**: Откройте `chrome://extensions/` (или `edge://extensions/`), включите "Режим разработчика", нажмите "Загрузить распакованное расширение" и выберите распакованную папку.
